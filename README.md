@@ -7,15 +7,15 @@ I recently made a career change and wanted to start focusing on investing for my
 
 Steps:
 
-Ask
-“How does Secratariat’s finishing times stack up against the other horses in the modern-era?”
+  1. Ask
+  “How does Secratariat’s finishing times stack up against the other horses in the modern-era?”
 
-Prepare
+  2. Prepare
 I searched through multiple databases to cross-reference and compare to find the most accurate and complete dataset which led me to https://horseracingdatasets.com/ This site was created in 2015 since there was a real need to have a complete database of all of the horses and their respective races. Jessica Chapel, a leading expert in the field, played the biggest role in ensuring the database is accurate and complete http://jessicachapel.com/
 
 The type of data I was needing in order to complete this analysis was the races top finishing times, the winning horse and the year which this site luckily had all of that information.
 
-Process
+  3. Process
 After double checking the datasets for outliers and missing data, I removed uneccessary columns and rows including, years prior to 1940, sire, dam, notes and the distance. Then I merged all three of the races datasets into one Excel file.
 
 Next Steps
